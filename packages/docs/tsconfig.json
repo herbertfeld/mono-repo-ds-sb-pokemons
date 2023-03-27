@@ -1,0 +1,7 @@
+{
+  "extends": "@acordo-fechado/ts-config/react.json",
+  "include": [
+    "src",
+    "../react/index.tsx"
+  ]
+}

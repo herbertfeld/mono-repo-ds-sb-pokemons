@@ -1,0 +1,6 @@
+{
+  "extends": "@acordo-fechado/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

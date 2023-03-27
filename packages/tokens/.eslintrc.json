@@ -1,0 +1,3 @@
+{
+  "extends": "@acordo-fechado/eslint-config"
+}
